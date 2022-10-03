@@ -2,7 +2,7 @@
 
    <h1 align="center">Hi 👋, I'm Fazil Guliyev</h1>
 <h3 align="center">I'm Frontend Developer</h3>
-   <img src="https://media.giphy.com/media/B1uajA01vvL91Urtsp/giphy.gif" align="right" width="450">
+   <img src="https://media.giphy.com/media/B1uajA01vvL91Urtsp/giphy.gif" align="right" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghu1iyev&label=Profile%20views&color=0e75b6&style=flat" alt="ghu1iyev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="500" src="https://github-profile-trophy.vercel.app/?username=ghu1iyev" alt="ghu1iyev" /></a> </p>
