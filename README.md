@@ -5,7 +5,7 @@
    <img src="https://media.giphy.com/media/B1uajA01vvL91Urtsp/giphy.gif" align="right" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghu1iyev&label=Profile%20views&color=0e75b6&style=flat" alt="ghu1iyev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="450" src="https://github-profile-trophy.vercel.app/?username=ghu1iyev" alt="ghu1iyev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="400" src="https://github-profile-trophy.vercel.app/?username=ghu1iyev" alt="ghu1iyev" /></a> </p>
 
 - 🌱 I’m currently learning **React js**
 
