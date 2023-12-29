@@ -25,4 +25,4 @@
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghu1iyev&show_icons=true&locale=en&layout=compact" alt="ghu1iyev" /></p>
 <br/><br/><br/><br/><br/><br/><br/><br/>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ghu1iyev&show_icons=true&locale=en" alt="ghu1iyev" /></p>
+<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ghu1iyev&show_icons=true&locale=en" alt="ghu1iyev" /></p> -->
