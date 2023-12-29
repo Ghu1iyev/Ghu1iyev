@@ -18,7 +18,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fazil-quliyev-0256171b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fazil-quliyev-0256171b1/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100009139584009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009139584009" height="30" width="40" /></a>
 <a href="https://instagram.com/khuliev21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khuliev21" height="30" width="40" /></a>
-<a href="https://www.behance.net/fazilquliyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="fazilquliyev" height="30" width="40" /></a>
 </p><br/>
 
 <h3 align="left">Languages and Tools:</h3>
