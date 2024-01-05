@@ -8,7 +8,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="400" src="https://github-profile-trophy.vercel.app/?username=ghu1iyev" alt="ghu1iyev" /></a> </p>
 
 - 📫 How to reach me **guliyevfazil5@gmail.com**
-
 <br/><br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
