@@ -6,12 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghu1iyev&label=Profile%20views&color=0e75b6&style=flat" alt="ghu1iyev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="400" src="https://github-profile-trophy.vercel.app/?username=ghu1iyev" alt="ghu1iyev" /></a> </p>
-<!-- 
-- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **guliyevfazil5@gmail.com**
 
-- ⚡ Fun fact **When I wrote code this, only God and I understand what I was doing. Now, God only knows :)** -->
 <br/><br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
